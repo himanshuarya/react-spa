@@ -10,9 +10,9 @@
 
 To start with repository,
 
-> git clone https://github.com/himanshuarya/react-workshop
+> git clone https://github.com/himanshuarya/react-spa
 
-> cd react-workshop
+> cd react-spa
 
 > npm install
 
