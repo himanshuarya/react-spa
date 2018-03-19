@@ -24,4 +24,4 @@ If you face command not found issue for git, you need to install it from https:/
 
 ## API Server
 
-Please follow instruction in https://github.com/nodesense/restful-server for setting up restful server needed for this application. The restful server should be run in parallel with the react-spa in order to run the application correctly.
+Please follow instructions in https://github.com/nodesense/restful-server for setting up restful server needed for this application. The restful server should be run in parallel with the react-spa in order to run the application correctly.
